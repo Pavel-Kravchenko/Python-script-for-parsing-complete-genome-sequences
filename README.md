@@ -1,5 +1,5 @@
-# Python-script-to-parsing-complete-genome-sequences
-A simple Python script to parsing complete mitochondrial genome sequences
+# Python-script-for-parsing-complete-genome-sequences
+A simple Python script for parsing complete mitochondrial genome sequences
 
 This script is the part of bioengineering and bioinformatics faculty coursework
 
